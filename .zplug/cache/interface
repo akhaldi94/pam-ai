@@ -1,0 +1,8 @@
+conda-incubator/conda-zsh-completion
+dbz/kube-aliases
+woefe/git-prompt.zsh, use:{git-prompt.zsh,examples/wprompt.zsh}
+woefe/wbase.zsh
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zsh-users/zsh-history-substring-search, defer:3
+zsh-users/zsh-syntax-highlighting, defer:2
